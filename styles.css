@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+table, th, td{
+    border-collapse: collapse;
+    border: 1px solid black;
+    
+}
+table{
+    width: 70%;
+}
+.head{
+    text-align: left;
+}
+.measure{
+    text-align: right;
+}
